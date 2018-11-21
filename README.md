@@ -18,3 +18,4 @@
   * ...
 * gobybo
   * https://github.com/PHPOffice/PhpSpreadsheet
+  * https://github.com/Intervention/image
