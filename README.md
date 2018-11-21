@@ -19,3 +19,4 @@
 * gobybo
   * https://github.com/PHPOffice/PhpSpreadsheet
   * https://github.com/Intervention/image
+https://phpunit.de/manual/6.5/en/installation.html#installation.phar.windows
