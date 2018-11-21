@@ -7,7 +7,7 @@
 * braiinless
   * https://github.com/php-ai/php-ml
 * tagaz
-  * ...
+  * https://github.com/PHPOffice/PHPWord
 * tibarbu
   * https://github.com/squizlabs/PHP_CodeSniffer
 * dastora
