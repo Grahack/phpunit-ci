@@ -3,7 +3,7 @@
 ## Liste des étudiants
 
 * ekalya
-  * https://github.com/sensiolabs/security-checker
+  * https://github.com/Clever/clever-php
 * braiinless
   * https://github.com/php-ai/php-ml
 * tagaz
